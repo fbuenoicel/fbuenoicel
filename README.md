@@ -1,6 +1,6 @@
 ### Hi, I'm Francisco Bueno 👋🏽 👨🏽‍💻
 
-![image](https://user-images.githubusercontent.com/66973584/131767734-e6a1a31e-01fb-4b86-973a-ef1fb1f61214.png)
+![image](https://user-images.githubusercontent.com/66973584/131767776-77bef49a-d29b-4c68-bf8b-520790e974e0.png)
 
 Francisco Bueno has 4 years of experience in software development in ORACLE, Salesforce and Microsoft technologies. He is a PhD in administration and computer systems.
 
